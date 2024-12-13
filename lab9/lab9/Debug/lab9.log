@@ -1,0 +1,3 @@
+﻿  lab9.cpp
+C:\Users\za55616\source\repos\lab9\lab9\lab9.cpp(70,9): warning C4477: „printf”: ciąg formatu „%x” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „main::MTestStruct”
+  lab9.vcxproj -> C:\Users\za55616\source\repos\lab9\Debug\lab9.exe
